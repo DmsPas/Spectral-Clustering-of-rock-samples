@@ -1,6 +1,6 @@
 # A spectral approach for the clustering of source rocks.
 
-This repository contains the official code for the paper "*A spectral approach for the clustering of source rocks.*" submitted at the [Mediterranean Geosciences Union Annual Meeting (MedGU), 2022](https://www.medgu.org/), and presented as a poster at the [13<sup>th</sup> FORTH Scientific Retreat, 2022](https://www.forth.gr/13th-forth-retreat/index.html). The poster can be viewed [here](Documents/Debiasing_Intra-_and_Post-processing_MLHC_2022_poster.pdf).
+This repository contains the official code for the paper "*A spectral approach for the clustering of source rocks.*" submitted at the [Mediterranean Geosciences Union Annual Meeting (MedGU), 2022](https://www.medgu.org/), and presented as a poster at the [13<sup>th</sup> FORTH Scientific Retreat, 2022](https://www.forth.gr/13th-forth-retreat/index.html). The poster can be viewed [here](Documents/Forth_Retreat_Poster.pdf).
 
 <p align="center">
   <img align="middle" src="Figures/map_locations.jpeg" alt="Location of samples" width="350"/>
